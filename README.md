@@ -6,7 +6,7 @@
 <h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
  <p align="left" style="width: 50%;">
-Quality Analyst passionate about delivering smooth and efficient software experiences. Specializes in automation and manual testing, with a keen eye for identifying and solving complex issues. Continuously learns and adapts to deliver high-quality solutions. Explores new tools and technologies to stay current with industry trends. Repositories showcase diverse work and expertise.
+a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
 
  </p>
 
@@ -20,7 +20,7 @@ Quality Analyst passionate about delivering smooth and efficient software experi
 
 - 💬 Ask me about * Java, Javascript, Manual Testing, Selenium, Cypress, Postman *
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://github.com/Shubhamgiri1709/Resume)
  
 - 📫 Feel free to reach me at *shubhamgiri1709@gmail.com*
 
